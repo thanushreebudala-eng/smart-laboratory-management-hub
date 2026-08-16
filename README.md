@@ -84,3 +84,16 @@ The complete project report is available in this repository:
 **Smart Laboratory Management Hub**
 
 Developed as an academic project in the Department of Electronics and Communication Engineering.
+##  Circuit Diagram
+
+![Circuit Diagram](circuit-diagram.png)
+
+## System Flowchart
+
+![System Flowchart](system-flowchart.png)
+
+##  Working Prototype
+
+![Working Prototype 1](prototype-working-1.png)
+
+![Working Prototype 2](prototype-working-2.png)
